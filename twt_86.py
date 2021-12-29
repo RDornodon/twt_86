@@ -1,0 +1,1 @@
+for I in[I:=input]*int(I()):A,B=I()[0],I();C=(B[0::4],A),(B[2::4],'XO'[A>'O']),;D=''.join(a*any(len({*c}&{*str(p)})==3for p in[123,456,789,147,258,369,159,357])for c,a in C);print(D if D else'Tie')
